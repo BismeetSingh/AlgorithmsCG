@@ -19,7 +19,7 @@ void MainWindow::paintEvent(QPaintEvent *)
     if(flag==1){
         drawDDa();
     }
-    else if(flag==3){
+    else if(flag==2){
         drawBreshnan();
     }
     else if (flag==3) {
